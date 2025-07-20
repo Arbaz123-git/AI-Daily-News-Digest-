@@ -1,0 +1,18 @@
+[project]
+name = "ai-news-digest"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "dotenv>=0.9.9",
+    "ipykernel>=6.29.5",
+    "langchain>=0.3.26",
+    "langchain-core>=0.3.68",
+    "langchain-groq>=0.3.6",
+    "langchain-text-splitters>=0.3.8",
+    "newspaper3k>=0.2.8",
+    "nltk>=3.9.1",
+    "python-dotenv>=1.1.1",
+]

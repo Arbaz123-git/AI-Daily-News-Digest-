@@ -1,0 +1,35 @@
+
+DAILY NEWS DIGEST: AI STARTUPS
+Date: 2025-07-15
+Articles: 5
+Sentiment: 🔥 2 Positive | ⚠️ 3 Neutral | ⚡ 0 Negative
+
+KEY TAKEAWAYS:
+
+• ⚠️ Perplexity's engineers use 2 AI coding tools, and they've cut development time from days to hours (NEUTRAL)
+   - Summary unavailable
+   - Source: Business Insider
+• ⚠️ I was laid off from my product management job at Microsoft at 25. It may have been the best thing for me. (NEUTRAL)
+   - Summary unavailable
+   - Source: Business Insider
+• 🔥 AI Or The Human Touch? Striking A Balance In Customer Retention (POSITIVE)
+   - Here is a 2-paragraph summary of the article:
+
+The core innovation in customer retention strategies is the integration of AI and automation, which provides advanced capabilities for predicting customer behavior and personalizing interactions. However, businesses must strike a balance between leve...
+   - Source: Forbes
+• 🔥 Promap – AI recruitment software (POSITIVE)
+   - Here is a concise 2-paragraph summary of the article:
+
+Promap.ai is an innovative AI recruitment software that revolutionizes the hiring process by sourcing, evaluating, and interviewing top talent, resulting in a significant 90% reduction in hiring costs. This AI-powered solution provides bias-f...
+   - Source: Betalist.com
+• ⚠️ The AI labs are coming for Wall Street's quants (NEUTRAL)
+   - Summary unavailable
+   - Source: Business Insider
+
+SOURCES:
+
+[1] https://www.businessinsider.com/perplexity-engineers-ai-tools-cut-development-time-days-hours-2025-7
+[2] https://www.businessinsider.com/laid-off-microsoft-big-tech-best-thing-2025-7
+[3] https://www.forbes.com/sites/alisoncoleman/2025/07/14/ai-or-the-human-touch-striking-a-balance-in-customer-retention/
+[4] https://betalist.com/startups/promap
+[5] https://www.businessinsider.com/ai-talent-openai-wall-street-quant-trading-firms-2025-7
