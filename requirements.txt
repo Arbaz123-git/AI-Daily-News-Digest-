@@ -1,0 +1,20 @@
+# AI-Powered News Digest Assistant Requirements
+
+# API Clients
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# LLM Integration
+langchain>=0.1.0
+langchain-groq>=0.1.0
+
+# Text Processing
+bs4>=0.0.1
+beautifulsoup4>=4.12.2
+nltk>=3.8.1
+
+# Date/Time Handling
+pytz>=2023.3
+
+# Optional Dependencies (commented out in code but may be needed)
+# newspaper3k>=0.2.8
